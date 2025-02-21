@@ -1,7 +1,3 @@
-{"Version":"2.3",
-  "VersionDownload":"https://drive.google.com/file/d/1n76jstLCdAg1Mhb_YpHePtwt-DrTMU2n/view?usp=sharing",
-  "proxies" : {
-    "http": "http://109.196.98.101:8888",
-    "https": "http://172.232.32.204:3128"
-    }
+{"Version":"2.4",
+  "VersionDownload":"https://drive.google.com/file/d/1n76jstLCdAg1Mhb_YpHePtwt-DrTMU2n/view?usp=sharing"
 }
