@@ -1,6 +1,6 @@
 {"Version":"2.2",
   "VersionDownload":"https://drive.google.com/file/d/1n76jstLCdAg1Mhb_YpHePtwt-DrTMU2n/view?usp=sharing",
-  "proxies" = {
+  "proxies" : {
     "http": "http://157.15.118.86:8080",
     "https': 'http://172.232.32.204:3128",
     }
